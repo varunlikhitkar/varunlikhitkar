@@ -108,6 +108,16 @@ Built a fashion e-commerce site for a seller of salwar suits and sarees — a sm
 ![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=CCFF00&labelColor=000000&color=000000)
 ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=CCFF00&labelColor=000000&color=000000)
 
+**🖥 Frontend Development & API Integration**
+![Frontend Dev](https://img.shields.io/badge/Frontend_Development-000000?style=flat-square&labelColor=000000&color=CCFF00)
+![REST API Integration](https://img.shields.io/badge/REST_API_Integration-000000?style=flat-square&labelColor=000000&color=CCFF00)
+![Lovable](https://img.shields.io/badge/Lovable-000000?style=flat-square&labelColor=000000&color=CCFF00)
+![Anti Gravity](https://img.shields.io/badge/Anti_Gravity-000000?style=flat-square&labelColor=000000&color=CCFF00)
+![Open Claude](https://img.shields.io/badge/Open_Claude-000000?style=flat-square&labelColor=000000&color=CCFF00)
+![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square&labelColor=000000&color=CCFF00)
+![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=flat-square&labelColor=000000&color=CCFF00)
+![n8n](https://img.shields.io/badge/n8n-000000?style=flat-square&logo=n8n&logoColor=CCFF00&labelColor=000000&color=000000)
+
 </div>
 
 <br/>
