@@ -160,7 +160,7 @@ Built a fashion e-commerce site for a seller of salwar suits and sarees — a sm
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=varunlikhitkar&show_icons=true&hide_border=true&bg_color=000000&title_color=CCFF00&icon_color=CCFF00&text_color=ffffff&ring_color=CCFF00" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=varunlikhitkar&hide_border=true&background=000000&stroke=CCFF00&ring=CCFF00&fire=CCFF00&currStreakLabel=CCFF00&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=varunlikhitkar&hide_border=true&background=000000&stroke=CCFF00&ring=CCFF00&fire=CCFF00&currStreakLabel=CCFF00&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280" width="49%" />
 
 <br/>
 
